@@ -736,7 +736,7 @@ export const accountConnections = [
 
 export const livePriceAudits = {
   "milo-original-bars-210": {
-    checkedAt: "8 Jul 2026",
+    checkedAt: "9 Jul 2026",
     location: "Croydon Hills 3136",
     productName: "Nestle MILO Original Snack Bars 10 Pack 210g",
     recommendation: "Wait or buy one small pack only if urgent",
